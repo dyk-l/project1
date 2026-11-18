@@ -15,5 +15,3 @@ python run.py --output output_tokens.npz
 ```powershell
 python run.py --images "photo.jpg" --output my_tokens.npz
 ```
-
-运行时需要保留课程包中的 `weights/` 和 `assets/`，提交时无需附上这些数据。
